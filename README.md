@@ -1,6 +1,5 @@
 # 🧠 T.A.R.A. - Therapeutic AI for Reassurance and Assistance
 
-**2025/03/13** - We are releasing the 1B CSM variant. The checkpoint is [hosted on Hugging Face](https://huggingface.co/sesame/csm_1b).
 This document breaks down the CSM (Conversational Speech Model) codebase used for voice generation in T.A.R.A., designed for therapeutic conversational AI.
 
 ---
