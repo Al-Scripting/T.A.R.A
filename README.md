@@ -119,5 +119,3 @@ These shape the tone and vocal identity of each generated speaker.
 | Integration | Combine with LLMs (GPT, Claude, etc.) for back-and-forth dialog |
 
 ---
-
-Let me know if you'd like a visual diagram or code annotations next. T.A.R.A.'s voice is just getting started. 🎙️

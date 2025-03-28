@@ -1,3 +1,5 @@
+import torch_patch  # ✅ must be first to disable compilation
+
 import os
 import torch
 import torchaudio
